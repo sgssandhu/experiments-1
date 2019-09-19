@@ -1,0 +1,71 @@
+How to start using Git-hub and what is git and git-hub
+
+Go to git-hub website. https://github.com/.  Register yourself. By click signup option.
+
+form will open fill all information and submit the form. your register successfully.
+
+now understand some basic first
+
+what is the version control system?
+version control system helps the developer or person it to see back what changes he do in his file. In general, we say that it maintains records of our changes that we do in our file.
+
+let understand by example
+you have a phone. you use WhatsApp or any other app. after some time to time company realize the new version. exactly that git make a version of your file. that you can see and use any time.
+
+try another example
+when you save a document first time it gives name (v1). then again you do some add or delete content in the document and save it. it give name(v2).This assumes as file version. 
+
+what is git?
+Git is command line (VCM) Version Control System it's also called (SCM) Software Configuration Management. In gernal we can say (SCM) is Source Code Manager, Software Change Manager. git is locally stored on the computer.
+
+let understand by example 
+
+Assume you writing a document. you save a document. Git makes a record of your document. Another day you add or delete content in document. there we exactly need VCM(git). what he does. he makes a record of your document what you add or delete in document. he provides the ability to check back what you have done and now where are you.
+it maintains a record of your changes in a file. you may change a file several time it maintain all records of those changes.
+
+how git work?
+Git thinks of its data more like a series of snapshots.every time you commit or save the state of your project Git basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot. if files have not changed Git doesn’t store the file again just a link to the previous identical file it has already stored. 
+
+what is git-hub?
+
+GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command-line tool, GitHub provides a Web-based graphical interface.
+  
+what is repositary?
+
+A repository is a container that holds the all the files related your project. These files may contain your project code and another important file. 
+there is also a important file that called readme.md that is recommended by GitHub to include in each repository. what that file, what is purpose now understand. It is a file where you write software documentation. if anyone visits your repository. how he able understand what you done. in that situation readme file is there to help him to understand it.
+
+let us undersatnd by example 
+it like cuberd where we store all reletaed inforamtion. 
+
+what is mark-down?
+
+mark-down is formate to write a readme.md file. there is predifined foramte to write that file. it is easy to learn you can learn from internt.
+eg # means h1 , ## means h2.
+
+let us undersatnd bt example
+you drive a car. there is a rule of how driving a car. that exatly there is a rule how to write a file.
+
+try another example
+you write a letter. there is predefined formatted of writing a letter. there is exatly rule of write a file. 
+
+how to create repositary?
+
+login your account.  at right above corner you see + sign. click on that. you see options click on new repository option. new window will open. Enter the repository name. repository name as you wish. Description is (optional). choose option to make the repository public or private. I suggest to  Initialize this repository with a README. click on create a repository. your repository will create.
+
+what are git-hub Pages?
+
+GitHub Pages is a static site hosting service designed to host your personal, organization, or project pages directly from a GitHub repository.GitHub Pages is a static site hosting service and doesn't support server-side code such as, PHP, Ruby, or Python.
+
+ limits
+Published GitHub Pages sites may be no larger than 1 GB.
+
+how to set up git-hub pages?
+
+open the repositary that you create. you see setting a menue. last option is setting in menue. click that. and scroll down you see GitHub Pages.
+ stop!
+	theme chooser option
+	chooose a theme.  select theme 
+	scroll down again,
+	click commit changes.
+ your github page createed.
